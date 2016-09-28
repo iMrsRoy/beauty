@@ -1,0 +1,27 @@
+* {
+				font-family: Arial, Verdana, sans-serif;
+				color: #a70c26;
+				text-align: center;}
+			
+
+body {
+				width: 980px;
+				margin: 0 auto;}
+			#content {
+				overflow: auto;
+				height: 100%;}
+			#nav, #feature, #footer {
+				background-color: rgba(255,255,204,0.3);
+				padding: 10px;
+				margin: 10px;
+				}
+			.column1, .column2, .column3 {
+				background-color: #efefef;
+				width: 305px;
+				float: left;
+				margin: 10px;}
+			li {
+				display: inline;
+				padding: 5px;}
+
+		
